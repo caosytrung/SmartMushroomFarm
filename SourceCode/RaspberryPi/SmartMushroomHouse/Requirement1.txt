@@ -1,0 +1,3 @@
+AES Lib for arduino & raspberry pi : http://spaniakos.github.io/AES/
+Chạy project: run file \app\control\demo.py;
+	
